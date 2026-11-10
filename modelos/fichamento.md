@@ -1,72 +1,63 @@
-# Fichamento — Título do artigo
+# Fichamento de artigo — Título
 
-## 📌 Identificação
+- **Data:** AAAA-MM-DD
+- **Status:** a iniciar / em andamento / revisar / concluído
 
+## Identificação
+
+- **Título:**
 - **Autores:**
-- **Ano de publicação:**
+- **Ano:**
 - **Periódico ou evento:**
 - **DOI ou link:**
 - **Referência bibliográfica:**
-- **Data da leitura:**
-- **Status:** a ler / em leitura / fichado
 
-## 🎯 Problema e objetivo
+## Problema e objetivo
 
-Qual problema o artigo investiga? O que os autores pretendem alcançar?
+O que os autores investigam e pretendem alcançar?
 
-## 💡 Conceitos principais
+## Conceitos principais
 
-Quais conceitos preciso compreender para acompanhar o trabalho? Como os explicaria com minhas próprias palavras?
+Defina os termos necessários com minhas palavras.
 
-## 🔬 Método
-
-Como a pesquisa foi conduzida?
+## Método
 
 - **Dados e contexto:**
-- **Técnicas ou modelos utilizados:**
+- **Técnicas:**
 - **Procedimento experimental:**
-- **Métodos de comparação (baselines):**
-- **Métricas de avaliação:**
+- **Comparações (baselines):**
+- **Métricas:**
 
-## 📊 Resultados e conclusões
+## Resultados e conclusões
 
-Quais foram os principais resultados? Inclua números e condições de avaliação quando forem relevantes.
+Registre números e condições. Separe achados medidos das interpretações dos autores.
 
-O que os autores concluem? Até onde os resultados apresentados sustentam essas conclusões?
-
-## ⚠️ Limitações
+## Limitações
 
 ### Reconhecidas pelos autores
 
-Quais limitações o próprio artigo apresenta?
-
 ### Identificadas na minha leitura
 
-Quais pontos exigem cautela? Há informações ausentes, possíveis vieses ou restrições à aplicação dos resultados em outros contextos?
+Considere vieses, informações ausentes e validade em outros contextos.
 
-## 💭 Minha análise
+## Minha análise
 
-O que aprendi? O que considero convincente e por quê? Quais dúvidas ou discordâncias surgiram?
+O que é convincente e por quê? Quais dúvidas permanecem?
 
-## 🔗 Relação com meus estudos ou pesquisa
+## Relação com meus estudos
 
-Como este artigo se conecta ao que estou estudando? Ele pode fundamentar uma decisão, sugerir um método ou orientar uma comparação?
+Como pode fundamentar uma decisão ou comparação?
 
-## 💬 Citações e localização
+## Citações
 
-Registre trechos curtos exatamente como aparecem no original, entre aspas, indicando a página ou seção. Separe as citações dos seus próprios comentários.
-
-> “Trecho do artigo.” — página ou seção.
+> “Trecho curto e fiel.” — página ou seção.
 
 **Meu comentário:**
 
-## ✅ Próximos passos
+## Próximos passos
 
-- [ ] Revisar um conceito.
-- [ ] Consultar uma referência citada.
-- [ ] Investigar uma dúvida.
-- [ ] Avaliar uma ideia para meus estudos ou pesquisa.
+- [ ] Ação decorrente da leitura.
 
-## 📚 Referências complementares
+## Referências complementares
 
-- Materiais consultados para compreender o artigo.
+Materiais consultados para compreender o artigo.

@@ -1,51 +1,47 @@
-# Exercício — Título ou identificação
+# Resolução de exercício — Título
 
-- **Disciplina ou área:**
-- **Tema:**
-- **Fonte:** lista, livro, aula ou link
 - **Data:** AAAA-MM-DD
-- **Status:** em andamento / resolvido / revisar
+- **Status:** a iniciar / em andamento / revisar / concluído
 
-## 📋 Enunciado
+## Identificação
 
-Registre o enunciado ou indique onde consultá-lo, incluindo a página e o número da questão.
+- **Disciplina e tema:**
+- **Fonte e número da questão:**
 
-## 🎯 Entendimento do problema
+## Enunciado
 
-O que o exercício pede? Quais dados foram fornecidos e quais condições preciso respeitar?
+Transcreva quando permitido ou indique link, página e número.
 
-## 💡 Conceitos necessários
+## Entendimento
 
-Quais conceitos, propriedades, fórmulas ou técnicas ajudam a resolver esta questão?
+O que é pedido? Quais dados e restrições existem?
 
-## ✏️ Resolução passo a passo
+## Conceitos necessários
 
-Explique o raciocínio e justifique cada etapa. Inclua cálculos, códigos, tabelas ou diagramas quando necessário.
+Liste propriedades, fórmulas ou técnicas.
 
-### 1. Primeiro passo
+## Resolução passo a passo
 
-### 2. Desenvolvimento
+1. Planejamento.
+2. Desenvolvimento com justificativas.
+3. Resultado.
 
-### 3. Resultado
+## Resposta final
 
-## ✅ Resposta final
+Inclua unidades e condições quando aplicável.
 
-Apresente a resposta de forma clara, incluindo unidades ou condições quando houver.
+## Verificação
 
-## 🔎 Verificação
+Confira com testes, substituição ou outro método adequado.
 
-Como posso conferir a solução? Ela atende ao enunciado e respeita todas as condições?
+## Dificuldades e correções
 
-Use substituição, testes, casos particulares ou outro método adequado ao problema.
+Qual tentativa falhou? Por quê? Como corrigi?
 
-## ⚠️ Dificuldades e correções
+## Aprendizado
 
-Onde travei? Houve alguma tentativa que não funcionou? Qual foi o erro e como o corrigi?
+O que posso reaproveitar em outras questões?
 
-## 🧠 O que aprendi
+## Apoio utilizado
 
-Qual ideia deste exercício posso aproveitar em outras questões?
-
-## 📚 Referências e apoio utilizado
-
-Registre materiais, ferramentas ou ajuda consultada. Se houver gabarito, anote se a solução foi conferida com ele.
+Materiais, ferramentas, ajuda e eventual consulta ao gabarito.

@@ -1,65 +1,54 @@
-# Guia — Nome da ferramenta ou procedimento
+# Guia de ferramenta — Título
 
-- **Área:**
-- **Data da última verificação:** AAAA-MM-DD
-- **Ambiente:** sistema operacional e terminal
-- **Versão da ferramenta:**
+- **Data:** AAAA-MM-DD
+- **Status:** a iniciar / em andamento / revisar / concluído
 
-## 🎯 Objetivo
+## Ambiente
 
-O que este guia ensina a fazer? Qual deve ser o resultado ao concluir o procedimento?
+- **Sistema e terminal:**
+- **Ferramenta e versão:**
+- **Última verificação:**
 
-## 📋 Pré-requisitos
+## Objetivo
 
-Liste o que precisa estar instalado ou configurado antes de começar.
+O que será possível fazer ao concluir?
 
-## 🛠️ Passo a passo
+## Pré-requisitos
 
-### 1. Primeiro passo
+Instalações, configurações e permissões necessárias.
 
-Explique a ação e sua finalidade.
+## Passo a passo
 
-**Comando ou ação:**
+### 1. Ação
 
-**Resultado esperado:**
+Explique a finalidade, o comando e o resultado esperado.
 
-### 2. Próximo passo
+### 2. Próxima ação
 
-**Comando ou ação:**
+Continue conforme necessário.
 
-**Resultado esperado:**
+## Verificação
 
-## ✅ Como verificar se funcionou
+Como confirmar que funcionou?
 
-Descreva uma forma de confirmar que o objetivo foi alcançado.
+## Comandos úteis
 
-## 💻 Comandos úteis
+| Comando | Finalidade | Observações |
+| --- | --- | --- |
+| `comando` | Descrição | Condições de uso |
 
-| Comando | Para que serve | Observações |
-|---|---|---|
-| `comando` | Descrição da função. | Condições de uso ou cuidados. |
+## Cuidados
 
-## ⚠️ Cuidados
+Indique valores a substituir e ações que alteram dados. Nunca inclua credenciais.
 
-Registre detalhes importantes, especialmente quando uma ação altera configurações, arquivos ou dados.
+## Problemas e soluções
 
-Indique quais valores nos exemplos devem ser substituídos. Não inclua senhas, tokens ou outras credenciais.
+Sintoma, causa identificada ou hipótese, solução e confirmação.
 
-## 🔧 Problemas e soluções
+## Como desfazer
 
-### Problema ou mensagem de erro
+Registre o procedimento de reversão, se houver.
 
-- **Sintoma:**
-- **Causa identificada ou hipótese:**
-- **Solução aplicada:**
-- **Como conferi o resultado:**
+## Referências
 
-## ↩️ Como desfazer
-
-Se houver uma forma de reverter as alterações, descreva o procedimento e suas condições.
-
-## 📚 Referências
-
-- Documentação oficial.
-- Outros materiais consultados.
-- Links para anotações relacionadas.
+Documentação oficial e notas relacionadas.

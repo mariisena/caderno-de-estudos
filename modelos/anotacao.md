@@ -1,46 +1,36 @@
-# Título do assunto
+# Anotação de estudo — Título
 
 - **Data:** AAAA-MM-DD
-- **Área ou disciplina:**
-- **Status:** em estudo / revisar / concluído
+- **Status:** a iniciar / em andamento / revisar / concluído
 
-## 💡 Ideia principal
+## Ideia principal
 
-O que é esse conceito e para que serve? Resuma em poucas frases.
+O que é e para que serve?
 
-## 📝 Explicação com minhas palavras
+## Explicação com minhas palavras
 
-Como eu explicaria este assunto para alguém que está começando?
+Explique os conceitos e suas relações.
 
-Registre os pontos principais, as relações entre eles e as condições em que o conceito se aplica.
+## Exemplo prático
 
-## 🧩 Exemplo prático
+Construa um exemplo e explique o resultado.
 
-Apresente um exemplo que ajude a entender o assunto. Pode ser uma situação, um código, um cálculo ou um diagrama.
+## Conexões
 
-## 🔗 Conexões com outros assuntos
+Inclua links para notas relacionadas.
 
-Com quais conceitos este conteúdo se relaciona? Inclua links para outras anotações quando houver.
+## Pontos de atenção
 
-## ⚠️ Pontos de atenção
+Registre exceções e confusões frequentes.
 
-Quais detalhes costumam causar confusão? Existem exceções, limitações ou conceitos parecidos que preciso distinguir?
+## Dúvidas
 
-## ❓ Dúvidas
+- [ ] Questão a investigar.
 
-- [ ] Dúvida que preciso investigar.
+## Revisão ativa
 
-## 🧠 Revisão ativa
+Quais perguntas consigo responder sem consultar a nota?
 
-Crie perguntas para responder depois, sem consultar a anotação.
+## Referências
 
-- Como eu definiria este conceito?
-- Em que situação ele seria útil?
-- Consigo construir um exemplo diferente do apresentado?
-
-## 📚 Referências
-
-- **Título do material:**
-- **Autor ou instituição:**
-- **Link:**
-- **Página, capítulo ou seção:**
+Autor, título, link e página ou seção.

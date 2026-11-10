@@ -1,49 +1,42 @@
-# Aula — Título ou tema
+# Resumo de aula — Título
+
+- **Data:** AAAA-MM-DD
+- **Status:** a iniciar / em andamento / revisar / concluído
+
+## Identificação
 
 - **Disciplina:**
 - **Professor(a):**
-- **Data:** AAAA-MM-DD
-- **Material da aula:** link ou referência
+- **Material:**
 
-## 🎯 Tema central
+## Tema central
 
-Qual foi o foco da aula? O que devo compreender ao final?
+O que devo compreender ao final?
 
-## 📝 Principais pontos
+## Principais pontos
 
-Registre os conceitos e explicações mais importantes com suas próprias palavras.
+Organize os tópicos com minhas próprias palavras.
 
-### Tópico 1
+## Exemplos trabalhados
 
-### Tópico 2
+Registre o raciocínio, os cálculos ou códigos.
 
-## 🧩 Exemplos trabalhados
+## Pontos de atenção
 
-Descreva os exemplos apresentados e o raciocínio utilizado para resolvê-los. Inclua códigos, cálculos ou diagramas quando necessário.
+Quais detalhes foram destacados?
 
-## ⚠️ Pontos de atenção
+## Dúvidas
 
-Quais detalhes o professor destacou? Quais erros, exceções ou diferenças entre conceitos merecem cuidado?
+- [ ] Pergunta para revisar ou levar à próxima aula.
 
-## ❓ Dúvidas
+## Atividades
 
-- [ ] Pergunta que ficou após a aula.
+- [ ] Atividade — prazo: AAAA-MM-DD
 
-## ✅ Atividades e pendências
+## Revisão ativa
 
-- [ ] **Atividade:** descrição — **Prazo:** AAAA-MM-DD
-- [ ] Revisar um conteúdo.
-- [ ] Resolver os exercícios indicados.
+Explique a ideia central e aplique em um exemplo novo.
 
-## 🧠 Revisão da aula
+## Referências
 
-Responda sem consultar o material:
-
-- Qual foi a ideia principal da aula?
-- Como os conceitos apresentados se relacionam?
-- Consigo explicar ou aplicar o que aprendi em um exemplo novo?
-
-## 📚 Referências e notas relacionadas
-
-- Slides, textos ou capítulos utilizados.
-- Links para anotações mais detalhadas sobre os conceitos.
+Links para materiais e notas relacionadas.
