@@ -41,6 +41,10 @@ As fontes utilizadas serão indicadas nos respectivos arquivos. Materiais de ter
 
 O conteúdo autoral deste repositório está disponibilizado sob a [Licença MIT](LICENSE).
 
+## 📝 Modelos
+
+[Modelos para estudos, leituras e pesquisa](modelos/README.md)
+
 ---
 
 Feito por Mari, entre uma dúvida, um café e mais uma coisa para aprender. ☕✨
